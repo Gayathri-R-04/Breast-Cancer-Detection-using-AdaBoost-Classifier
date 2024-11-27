@@ -1,6 +1,5 @@
 # Breast-Cancer-Detection-using-AdaBoost-Classifier
 
-# **Breast Cancer Classification Project**
 
 This project implements a **Breast Cancer Classification** system using machine learning techniques. It uses the **Breast Cancer Wisconsin (Diagnostic) dataset** to classify tumors as either malignant or benign. The project has two versions, with **Version 2** integrating a web-based interface using **Streamlit**.
 
