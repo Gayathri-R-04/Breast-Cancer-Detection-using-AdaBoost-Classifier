@@ -125,7 +125,7 @@ pip install pandas numpy scikit-learn seaborn matplotlib plotly joblib streamlit
 
 | **Name**                   | **Contact**                   | **GitHub**                              | **LinkedIn**                                     |
 |----------------------------|-------------------------------|-----------------------------------------|-------------------------------------------------|
-| Gayathri R                 | gayathri.22ad@kct.ac.in      | [GitHub](https://github.com/Gayathri-R-04/) | [LinkedIn](https://www.linkedin.com/in/gayathri-r-14rg) |
+| Gayathri R                 | gayathriramesh04@gmail.com      | [GitHub](https://github.com/Gayathri-R-04/) | [LinkedIn](https://www.linkedin.com/in/gayathri-r-14rg) |
 | Naveen S                  | snaveen8105@gmail.com        | [GitHub](https://github.com/naveeen0308) | [LinkedIn](https://www.linkedin.com/in/naveen-s-a70854268/) |
 | B.Krishna Raja Sree        | 22b01a4609@svecw.edu.in      | [GitHub](https://github.com/krishnasree76/) | [LinkedIn](https://www.linkedin.com/in/krishna-raja-sree-bonam-7b6079257/) |
 | Joseph Boban               | joseph.dm254031@greatlakes.edu.in | [GitHub](https://github.com/josephboban2000) | [LinkedIn](https://www.linkedin.com/in/josephboban/) |
